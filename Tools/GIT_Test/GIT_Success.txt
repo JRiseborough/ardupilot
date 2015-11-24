@@ -19,3 +19,4 @@ Hazy
 Benoit GRUSON
 Dario Lindo Andres
 George Zogopoulos Papaliakos, struggling with Git
+James "I think I Git it" Riseborough
